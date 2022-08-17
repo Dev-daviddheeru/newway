@@ -425,9 +425,8 @@ a[href^=tel] {
   .navbar-brand{
     margin: auto;
   }
-  .brandRow{
-    align-items: center;
-    text-align: center;
+  .info-box{
+    display: none
   }
   
 }
